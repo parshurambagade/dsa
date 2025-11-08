@@ -1,0 +1,54 @@
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+*~
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+.sublime-project
+.sublime-workspace
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+package-lock.json
+yarn.lock
+
+# Optional: Uncomment if you add testing
+# coverage/
+# .nyc_output/
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Build Output (if you add TypeScript later)
+dist/
+build/
+*.js.map
+
+# Logs
+logs/
+*.log
+
+# Temporary Files
+tmp/
+temp/
+*.tmp
+
+# Personal Notes (optional)
+notes.txt
+scratch.js
+test.js
