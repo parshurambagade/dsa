@@ -2,7 +2,7 @@
 
 My personal study notes for completing the NeetCode 150 problem set. Each problem includes 2-3 solution approaches with detailed notes and complexity analysis.
 
-**Goal**: Complete all 150 problems | **Current Progress**: 1/150 (0.7%)
+**Goal**: Complete all 150 problems | **Current Progress**: 2/150 (1.3%)
 
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
@@ -41,7 +41,7 @@ dsa/
 | #   | Problem                                               | Difficulty | Status  | Solutions |
 | --- | ----------------------------------------------------- | ---------- | ------- | --------- |
 | 1   | [Contains Duplicate](./Arrays/01-contains-duplicate/) | 🟢 Easy    | ✅ Done | 3         |
-| 2   | Valid Anagram                                         | 🟢 Easy    | ⚪ Todo | -         |
+| 2   | [Valid Anagram](./Arrays/02-valid-anagram/)           | 🟢 Easy    | ✅ Done | 3         |
 | 3   | Two Sum                                               | 🟢 Easy    | ⚪ Todo | -         |
 | 4   | Group Anagrams                                        | 🟡 Medium  | ⚪ Todo | -         |
 | 5   | Top K Frequent Elements                               | 🟡 Medium  | ⚪ Todo | -         |
@@ -276,9 +276,9 @@ dsa/
 | 149 | Sum of Two Integers | 🟡 Medium  | ⚪ Todo | -         |
 | 150 | Reverse Integer     | 🟡 Medium  | ⚪ Todo | -         |
 
-**Progress Summary**: 1/150 completed (0.7%)
+**Progress Summary**: 2/150 completed (1.3%)
 
-- 🟢 Easy: 0 | 🟡 Medium: 1 | 🔴 Hard: 0
+- 🟢 Easy: 2 | 🟡 Medium: 0 | 🔴 Hard: 0
 
 ## 🎯 Study Plan
 
