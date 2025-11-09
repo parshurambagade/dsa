@@ -2,7 +2,7 @@
 
 My personal study notes for completing the NeetCode 150 problem set. Each problem includes 2-3 solution approaches with detailed notes and complexity analysis.
 
-**Goal**: Complete all 150 problems | **Current Progress**: 3/150 (2.0%)
+**Goal**: Complete all 150 problems | **Current Progress**: 4/150 (2.7%)
 
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
@@ -43,7 +43,7 @@ dsa/
 | 1   | [Contains Duplicate](./Arrays/01-contains-duplicate/) | 🟢 Easy    | ✅ Done | 3         |
 | 2   | [Valid Anagram](./Arrays/02-valid-anagram/)           | 🟢 Easy    | ✅ Done | 3         |
 | 3   | [Two Sum](./Arrays/03-two-sum/)                       | 🟢 Easy    | ✅ Done | 3         |
-| 4   | Group Anagrams                                        | 🟡 Medium  | ⚪ Todo | -         |
+| 4   | [Group Anagrams](./Arrays/04-group-anagrams/)         | 🟡 Medium  | ✅ Done | 3         |
 | 5   | Top K Frequent Elements                               | 🟡 Medium  | ⚪ Todo | -         |
 | 6   | Product of Array Except Self                          | 🟡 Medium  | ⚪ Todo | -         |
 | 7   | Valid Sudoku                                          | 🟡 Medium  | ⚪ Todo | -         |
@@ -276,9 +276,9 @@ dsa/
 | 149 | Sum of Two Integers | 🟡 Medium  | ⚪ Todo | -         |
 | 150 | Reverse Integer     | 🟡 Medium  | ⚪ Todo | -         |
 
-**Progress Summary**: 3/150 completed (2.0%)
+**Progress Summary**: 4/150 completed (2.7%)
 
-- 🟢 Easy: 3 | 🟡 Medium: 0 | 🔴 Hard: 0
+- 🟢 Easy: 3 | 🟡 Medium: 1 | 🔴 Hard: 0
 
 ## 🎯 Study Plan
 
