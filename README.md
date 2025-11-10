@@ -2,7 +2,7 @@
 
 My personal study notes for completing the NeetCode 150 problem set. Each problem includes 2-3 solution approaches with detailed notes and complexity analysis.
 
-**Goal**: Complete all 150 problems | **Current Progress**: 4/150 (2.7%)
+**Goal**: Complete all 150 problems | **Current Progress**: 5/150 (3.3%)
 
 [![JavaScript](https://img.shields.io/badge/Language-JavaScript-yellow.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
@@ -38,17 +38,17 @@ dsa/
 
 ### Arrays & Hashing (9 problems)
 
-| #   | Problem                                               | Difficulty | Status  | Solutions |
-| --- | ----------------------------------------------------- | ---------- | ------- | --------- |
-| 1   | [Contains Duplicate](./Arrays/01-contains-duplicate/) | 🟢 Easy    | ✅ Done | 3         |
-| 2   | [Valid Anagram](./Arrays/02-valid-anagram/)           | 🟢 Easy    | ✅ Done | 3         |
-| 3   | [Two Sum](./Arrays/03-two-sum/)                       | 🟢 Easy    | ✅ Done | 3         |
-| 4   | [Group Anagrams](./Arrays/04-group-anagrams/)         | 🟡 Medium  | ✅ Done | 3         |
-| 5   | Top K Frequent Elements                               | 🟡 Medium  | ⚪ Todo | -         |
-| 6   | Product of Array Except Self                          | 🟡 Medium  | ⚪ Todo | -         |
-| 7   | Valid Sudoku                                          | 🟡 Medium  | ⚪ Todo | -         |
-| 8   | Encode and Decode Strings                             | 🟡 Medium  | ⚪ Todo | -         |
-| 9   | Longest Consecutive Sequence                          | 🟡 Medium  | ⚪ Todo | -         |
+| #   | Problem                                                         | Difficulty | Status  | Solutions |
+| --- | --------------------------------------------------------------- | ---------- | ------- | --------- |
+| 1   | [Contains Duplicate](./Arrays/01-contains-duplicate/)           | 🟢 Easy    | ✅ Done | 3         |
+| 2   | [Valid Anagram](./Arrays/02-valid-anagram/)                     | 🟢 Easy    | ✅ Done | 3         |
+| 3   | [Two Sum](./Arrays/03-two-sum/)                                 | 🟢 Easy    | ✅ Done | 3         |
+| 4   | [Group Anagrams](./Arrays/04-group-anagrams/)                   | 🟡 Medium  | ✅ Done | 3         |
+| 5   | [Top K Frequent Elements](./Arrays/05-top-k-frequent-elements/) | 🟡 Medium  | ✅ Done | 3         |
+| 6   | Product of Array Except Self                                    | 🟡 Medium  | ⚪ Todo | -         |
+| 7   | Valid Sudoku                                                    | 🟡 Medium  | ⚪ Todo | -         |
+| 8   | Encode and Decode Strings                                       | 🟡 Medium  | ⚪ Todo | -         |
+| 9   | Longest Consecutive Sequence                                    | 🟡 Medium  | ⚪ Todo | -         |
 
 ### Two Pointers (5 problems)
 
@@ -341,7 +341,7 @@ console.log(containsDuplicate([1, 1, 1, 3, 3, 4, 3, 2, 4, 2])); // true
 
 | Topic               | Problems Solved | Status         |
 | ------------------- | --------------- | -------------- |
-| [Arrays](./Arrays/) | 1               | 🟢 In Progress |
+| [Arrays](./Arrays/) | 5               | 🟢 In Progress |
 | Strings             | 0               | ⚪ Not Started |
 | Linked Lists        | 0               | ⚪ Not Started |
 | Stacks & Queues     | 0               | ⚪ Not Started |
@@ -356,11 +356,23 @@ console.log(containsDuplicate([1, 1, 1, 3, 3, 4, 3, 2, 4, 2])); // true
 
 ## 📊 Progress Tracker
 
+### Difficulty Breakdown
+
+| Difficulty | Solved | Total | Percentage |
+| ---------- | ------ | ----- | ---------- |
+| Easy       | 3      | 44    | 6.8%       |
+| Medium     | 2      | 81    | 2.5%       |
+| Hard       | 0      | 25    | 0%         |
+
 ### Arrays
 
-| #   | Problem                                               | Difficulty | Solutions | Status |
-| --- | ----------------------------------------------------- | ---------- | --------- | ------ |
-| 01  | [Contains Duplicate](./Arrays/01-contains-duplicate/) | Easy       | 3         | ✅     |
+| #   | Problem                                                         | Difficulty | Solutions | Status |
+| --- | --------------------------------------------------------------- | ---------- | --------- | ------ |
+| 01  | [Contains Duplicate](./Arrays/01-contains-duplicate/)           | Easy       | 3         | ✅     |
+| 02  | [Valid Anagram](./Arrays/02-valid-anagram/)                     | Easy       | 3         | ✅     |
+| 03  | [Two Sum](./Arrays/03-two-sum/)                                 | Easy       | 3         | ✅     |
+| 04  | [Group Anagrams](./Arrays/04-group-anagrams/)                   | Medium     | 3         | ✅     |
+| 05  | [Top K Frequent Elements](./Arrays/05-top-k-frequent-elements/) | Medium     | 3         | ✅     |
 
 **Legend**: ✅ Complete | 🔄 In Progress | ⚪ Not Started
 
